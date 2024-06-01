@@ -1,11 +1,11 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.owner = "6282389231318"
-global.ownerStore = "6282389231318"
-global.namabot = "FluXzBotz⚡"
-global.namaCreator = "FluXz Official"
-global.namaStore = "FluXzBotz⚡"
+global.owner = "6285711654909"
+global.ownerStore = "6285711654909"
+global.namabot = "ADAYBOTZ⚡"
+global.namaCreator = "ADAY STORE"
+global.namaStore = "ADAYBOTZ⚡"
 global.autoJoin = false
 global.antilink = false
 global.anticall = true
